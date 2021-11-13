@@ -1,10 +1,17 @@
-# PROJECT
-PERSONAL-BLOGGING
 ## AUTHOR
 
 * Timothy Mugendi Nthiga
 
+# PROJECT
+personal-blogging
+## DESCRIPTION
+* A personal blogging website where you can create and share your opinions and other users can read and comment on them. 
+* Additionally, there is a feature that displays random quotes to inspire users.
+## FEATURES
 
+*  Can create and share your opinions.
+*  Users can read and comment on these opinions.
+*  Can displays random quotes to inspire your users. 
 ## DESIGN
 Our design practice offers a full range of services including brand strategy, interaction and visual design and user experience testing.
 Throughout your project, our designers create and implement visual design and workflows, solicit user feedback and work with you to make sure what gets built is what is needed.
@@ -17,7 +24,7 @@ I collaborate with the team to write, and improve code on a daily basis, using p
 
 ## BEHAVIORAL DRIVEN DEVELOPMENT
 
-* The user is able to view all categories and also go ahead to either upvote or downvote them.
+The user is able to view all opinios and also go ahead to comment on them.
 
 ## KNOWN BUGS
 The project is working as required,fully responsive and has no known bugs.
@@ -39,7 +46,7 @@ The project is working as required,fully responsive and has no known bugs.
 * Run the folowing commands in your terminal
     * $ git clone 
 
-    * cd personal-blog
+    * cd personal-blogging
 
 ## RUNNING THE APPLICATION
 
