@@ -1,4 +1,4 @@
-export SECRET_KEY='bugs'
+export SECRET_KEY=blogging
 
 export MAIL_USERNAME=timmrockstar@gmail.com
 export MAIL_PASSWORD=Timoh@97
